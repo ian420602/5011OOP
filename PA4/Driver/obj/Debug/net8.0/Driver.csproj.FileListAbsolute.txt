@@ -1,0 +1,14 @@
+/Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Driver
+/Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Driver.deps.json
+/Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Driver.runtimeconfig.json
+/Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Driver.dll
+/Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Driver.pdb
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/Driver.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/Driver.AssemblyInfoInputs.cache
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/Driver.AssemblyInfo.cs
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/Driver.csproj.CoreCompileInputs.cache
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/Driver.dll
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/refint/Driver.dll
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/Driver.pdb
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/Driver.genruntimeconfig.cache
+/Users/liuzhongyan/RiderProjects/PA4/Driver/obj/Debug/net8.0/ref/Driver.dll

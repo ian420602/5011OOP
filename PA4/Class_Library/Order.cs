@@ -96,4 +96,9 @@ public class Order
         if (TariffAmount < 0)
             throw new Exception("Tariff amount cannot be negative.");
     }
+
+        public Order DeepCopy()
+        {
+            
+        }
 }

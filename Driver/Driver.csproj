@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>PA4</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- 如果你的項目有其他依賴（例如 Class_Library） -->
+    <ProjectReference Include="..\Class_Library\Class_Library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- 你需要的 NuGet 包 -->
+    <PackageReference Include="Microsoft.Data.Sqlite" Version="9.0.0" />
+    <PackageReference Include="Microsoft.NETCore.Platforms" Version="8.0.0-preview.7.23375.6" />
+    <PackageReference Include="NUnit" Version="4.2.2" />
+  </ItemGroup>
+
+</Project>
+
+

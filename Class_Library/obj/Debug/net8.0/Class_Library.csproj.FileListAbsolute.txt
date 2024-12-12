@@ -1,0 +1,15 @@
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/bin/Debug/net8.0/Class_Library.deps.json
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/bin/Debug/net8.0/Class_Library.runtimeconfig.json
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/bin/Debug/net8.0/Class_Library.dll
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/bin/Debug/net8.0/Class_Library.pdb
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.csproj.AssemblyReference.cache
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.AssemblyInfoInputs.cache
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.AssemblyInfo.cs
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.csproj.CoreCompileInputs.cache
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.sourcelink.json
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.dll
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/refint/Class_Library.dll
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.pdb
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/Class_Library.genruntimeconfig.cache
+/Users/liuzhongyan/RiderProjects/PA4/Class_Library/obj/Debug/net8.0/ref/Class_Library.dll

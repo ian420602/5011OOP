@@ -1,12 +1,14 @@
-namespace UnitTest;
-using System;
-using System.Collections.Generic;
-using System.IO;
-using Class_Library;
-using Xunit;
+namespace UnitTest
+{
+    using System;
+    using System.Collections.Generic;
+    using System.IO;
+    using Class_Library;
+    using Xunit;
 
-public class OrderTests {
-        [Fact] 
+    public class OrderTests
+    {
+        [Fact]
         public void TestOrderCreation_ValidInputs()
         {
             var order = new Order(1000, "John Jenkins", "253-312-4578");
@@ -70,9 +72,11 @@ public class OrderTests {
                 new OrderDetail(2, "NOELE001", "Non-Electronic Item", 50.00f, 2)
             };
 
-            var jsonOutput = new JsonOutput();
-            jsonOutput.SaveOrderToFile(order, "TestOrder.json");
-            Assert.True(File.Exists("TestOrder.json"));
+            var outputDataFactory = new OutputDataFactory();
+            IOrderRepository jsonOutput = outputDataFactory.CreateOutputData(2); // 2 for JSON
+
+            jsonOutput.SaveOrder(order);
+            Assert.True(File.Exists("orders.json"));
         }
 
         [Fact]
@@ -85,11 +89,10 @@ public class OrderTests {
                 new OrderDetail(2, "NOELE001", "Non-Electronic Item", 50.00f, 2)
             };
 
-            var sqliteOutput = new SQLiteOutput();
-            sqliteOutput.OpenConnection("TestOrders.db");
-            sqliteOutput.CreateTables();
-            sqliteOutput.InsertOrder(order);
-            sqliteOutput.CloseConnection();
+            var outputDataFactory = new OutputDataFactory();
+            IOrderRepository sqliteOutput = outputDataFactory.CreateOutputData(1); // 1 for SQLite
+
+            sqliteOutput.SaveOrder(order);
             Assert.True(File.Exists("TestOrders.db"));
         }
 
@@ -99,3 +102,4 @@ public class OrderTests {
             Assert.Throws<ArgumentException>(() => new Order(1000, "John", "INVALID_PHONE"));
         }
     }
+}

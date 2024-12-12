@@ -7,6 +7,7 @@
 /Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/EntityFramework.dll
 /Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
 /Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/Newtonsoft.Json.dll
 /Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/nunit.framework.dll
 /Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/nunit.framework.legacy.dll
 /Users/liuzhongyan/RiderProjects/PA4/Driver/bin/Debug/net8.0/SQLitePCLExRaw.batteries_v2.dll

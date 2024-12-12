@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hdiDnHH/nmY=",
+  "dgSpecHash": "23uvnGwI18o=",
   "success": true,
   "projectFilePath": "/Users/liuzhongyan/RiderProjects/PA4/UnitTest/UnitTest.csproj",
   "expectedPackageFiles": [
@@ -14,7 +14,7 @@
     "/Users/liuzhongyan/.nuget/packages/microsoft.testplatform.testhost/17.6.2/microsoft.testplatform.testhost.17.6.2.nupkg.sha512",
     "/Users/liuzhongyan/.nuget/packages/microsoft.win32.registry/4.7.0/microsoft.win32.registry.4.7.0.nupkg.sha512",
     "/Users/liuzhongyan/.nuget/packages/microsoft.win32.systemevents/4.7.0/microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "/Users/liuzhongyan/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/liuzhongyan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/liuzhongyan/.nuget/packages/nuget.frameworks/6.5.0/nuget.frameworks.6.5.0.nupkg.sha512",
     "/Users/liuzhongyan/.nuget/packages/nunit/4.2.2/nunit.4.2.2.nupkg.sha512",
     "/Users/liuzhongyan/.nuget/packages/nunit3testadapter/4.4.2/nunit3testadapter.4.4.2.nupkg.sha512",
